@@ -1,7 +1,6 @@
 # git flow test
 
-##		by nayoung
+## by nayoung
 
 - test
--Test
-### GRAPI
+- Test
